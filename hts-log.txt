@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Nov 2024 12:57:43 at www.bing.com/ck/a?!&&p=be85c092dc4b072fbfbab358dbba0643a97174ecac3d6c7f55e4a6f4a5b5a120JmltdHM9MTczMTQ1NjAwMA&ptn=3&ver=2&hsh=4&fclid=22579009-8d82-6854-21e1-84d98cfe69ac&psq=https%3a%2f%2fwww.buoyhealth.com%2fsymptom-checker%2f&u=a1aHR0cHM6Ly93d3cuYnVveWhlYWx0aC5jb20vc3ltcHRvbS1jaGVja2VyLw&ntb=1 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -WC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" www.bing.com/ck/a?!&&p=be85c092dc4b072fbfbab358dbba0643a97174ecac3d6c7f55e4a6f4a5b5a120JmltdHM9MTczMTQ1NjAwMA&ptn=3&ver=2&hsh=4&fclid=22579009-8d82-6854-21e1-84d98cfe69ac&psq=https%3a%2f%2fwww.buoyhealth.com%2fsymptom-checker%2f&u=a1aHR0cHM6Ly93d3cuYnVveWhlYWx0aC5jb20vc3ltcHRvbS1jaGVja2VyLw&ntb=1 -O1 "E:\kjklhkl" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 seconds : 2 links scanned, 1 files written (1935 bytes overall) [5110 bytes received at 1703 bytes/sec], 2839 bytes transferred using HTTP compression in 2 files, ratio 74%, 1.5 requests per connection
+(No errors, 0 warnings, 0 messages)
